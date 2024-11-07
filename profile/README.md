@@ -9,6 +9,9 @@ Das Anmeldeformular wird Ende 2024 freigeschaltet.
 
 Wir freuen uns auf Euch!
 
+## Challenges
+Die Challenges werden hier erstmals Ende 2024 vorgestellt. Challenges können unkompliziert per E-Mail an info[at]ejustice.ch eingegeben werden. 
+
 <!--
 
 **Here are some ideas to get you started:**
