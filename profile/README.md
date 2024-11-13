@@ -1,10 +1,12 @@
 ![eJustice ch_open_legal_lab_Logo_Web-300x72](https://github.com/user-attachments/assets/cb1db30b-aee4-44ad-b730-4a8d66dacf79)
 
 ## Präge die Zukunft des Schweizer Rechtssystems aktiv mit!
-Datum: 6. & 7. April 2025 \
+**Datum: 6. & 7. April 2025 \
 Ort: Swiss Olympic House, Magglingen \
-Teilnahme: Kostenlos
+Teilnahme: Kostenlos**
+
 ## Anmeldung
+
 Das Anmeldeformular wird Ende 2024 freigeschaltet.
 
 Wir freuen uns auf Euch!
