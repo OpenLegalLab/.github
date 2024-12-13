@@ -7,12 +7,23 @@ Teilnahme: Kostenlos**
 
 ## Anmeldung
 
-Das Anmeldeformular wird Ende 2024 freigeschaltet.
+Bitte meldet Euch jetzt mittels [Anmeldeformular](https://ejustice.ch/open-legal-lab/) an.
+
+>[!IMPORTANT]
+>Begrenzte Teilnehmerzahl!
+>Die Anmeldungen werden nach Eingangsdatum berücksichtigt. Sollte Eure Anmeldung auf der Warteliste landen, werdet Ihr darüber informiert.
 
 Wir freuen uns auf Euch!
 
 ## Challenges
-Die Challenges werden hier erstmals Ende 2024 vorgestellt. Challenges können unkompliziert per E-Mail an info[at]ejustice.ch eingegeben werden. 
+Bitte reicht Eure Challenges per [E-Mail](mailto://info@ejustice.ch?subject=OLL2025%20Challenge:) ein. Ein kurzer Text genügt. Ihr werdet umgehend kontaktiert.
+
+Die Challenges werden hier erstmals Ende 2024 vorgestellt.
+
+## Vergangene Open Legal Labs
+* [Open Legal Lab 2024](../../../wiki/Open-Legal-Lab-2024)
+* [Open Legal Lab 2023](../../../wiki/Open-Legal-Lab-2023)
+* [Open Legal Lab 2022](../../../wiki/Open-Legal-Lab-2022)
 
 <!--
 
