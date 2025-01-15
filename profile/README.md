@@ -7,7 +7,7 @@ Teilnahme: Kostenlos**
 
 ## Anmeldung
 
-Bitte meldet Euch jetzt mittels [Anmeldeformular](https://ejustice.ch/open-legal-lab/) an.
+Bitte meldet Euch jetzt mittels [Anmeldeformular](https://ejustice.ch/open-legal-lab/#OLL2025) an.
 <!--
 >[!IMPORTANT]
 >Begrenzte Teilnehmerzahl!
