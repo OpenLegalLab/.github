@@ -13,18 +13,17 @@ Bitte meldet Euch jetzt mittels [Anmeldeformular](https://ejustice.ch/open-legal
 >Begrenzte Teilnehmerzahl!
 >Die Anmeldungen werden nach Eingangsdatum berücksichtigt. Sollte Eure Anmeldung auf der Warteliste landen, werdet Ihr darüber informiert.
 -->
+Eure Challenges könnt ihr per [E-Mail](mailto://info@ejustice.ch?subject=OLL2025%20Challenge:) einreichen. Ein kurzer Text genügt. Ihr werdet umgehend kontaktiert.
+
 Wir freuen uns auf Euch!
 
-## Challenges
-Bitte reicht Eure Challenges per [E-Mail](mailto://info@ejustice.ch?subject=OLL2025%20Challenge:) ein. Ein kurzer Text genügt. Ihr werdet umgehend kontaktiert.
 
 ## Challenges 2025
-* [Digitalisierung der Datenschutz-Folgenabschätzung](../../../wiki/Digitalisierung-der-Datenschutz‐Folgenabschätzung)
+### Digitalisierung der Datenschutz-Folgenabschätzung
+Das Datenschutzgesetz erfordert eine Datenschutz-Folgenabschätzung (DSFA) bei hohem Risiko für die Rechte der Betroffenen, aber es fehlt bislang an einem digitalen Tool zur effizienten Unterstützung dieses Prozesses. Ein solches Tool könnte die Prüfung automatisieren und langfristig zur Digitalisierung und Interoperabilität im gesamten Rechtsetzungsverfahren beitragen.
+[Mehr...](../../../wiki/Digitalisierung-der-Datenschutz‐Folgenabschätzung)
 
-## Vergangene Open Legal Labs
-* [Open Legal Lab 2024](../../../wiki/Open-Legal-Lab-2024)
-* [Open Legal Lab 2023](../../../wiki/Open-Legal-Lab-2023)
-* [Open Legal Lab 2022](../../../wiki/Open-Legal-Lab-2022)
+[Vergangene Open Legal Labs](../../../wiki)
 
 <!--
 
