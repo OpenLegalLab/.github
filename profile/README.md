@@ -19,7 +19,7 @@ Wir freuen uns auf Euch!
 Bitte reicht Eure Challenges per [E-Mail](mailto://info@ejustice.ch?subject=OLL2025%20Challenge:) ein. Ein kurzer Text genügt. Ihr werdet umgehend kontaktiert.
 
 ## Challenges 2025
-* [Digitalisierung der Datenschutz-Folgenabschätzung](../../../wiki/Digitalisierung-der-Datenschutz-Folgenabschätzung)
+* [Digitalisierung der Datenschutz-Folgenabschätzung](../../../wiki/Digitalisierung_der_Datenschutz-Folgenabschätzung)
 
 ## Vergangene Open Legal Labs
 * [Open Legal Lab 2024](../../../wiki/Open-Legal-Lab-2024)
