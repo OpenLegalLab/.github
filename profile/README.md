@@ -13,7 +13,7 @@ Bitte meldet Euch jetzt mittels [Anmeldeformular](https://ejustice.ch/open-legal
 >Begrenzte Teilnehmerzahl!
 >Die Anmeldungen werden nach Eingangsdatum berücksichtigt. Sollte Eure Anmeldung auf der Warteliste landen, werdet Ihr darüber informiert.
 -->
-Eure Challenges könnt ihr per [E-Mail](mailto://info@ejustice.ch?subject=OLL2025%20Challenge:) einreichen. Ein kurzer Text genügt. Ihr werdet umgehend kontaktiert.
+Eure Challenges könnt Ihr per [E-Mail](mailto://info@ejustice.ch?subject=OLL2025%20Challenge:) einreichen. Ein kurzer Text genügt. Ihr werdet umgehend kontaktiert.
 
 Wir freuen uns auf Euch!
 
