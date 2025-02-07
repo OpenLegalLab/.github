@@ -18,7 +18,7 @@ Eure Challenges könnt ihr per [E-Mail](mailto://info@ejustice.ch?subject=OLL202
 Wir freuen uns auf Euch!
 
 # Challenges 2025
-[Zu den Challenges](../../../discussions)
+➡️[Zu den Challenges](../../../discussions)
 <!--
 | 🟩01️: Digitalisierung der Datenschutz-Folgenabschätzung |
 |:--- |
