@@ -19,6 +19,13 @@ Wir freuen uns auf Euch!
 
 # Challenges 2025
 
+Version 1:
+### #01: Digitalisierung der Datenschutz-Folgenabschätzung
+Das Datenschutzgesetz erfordert eine Datenschutz-Folgenabschätzung (DSFA) bei hohem Risiko für die Rechte der Betroffenen, aber es fehlt bislang an einem digitalen Tool zur effizienten Unterstützung dieses Prozesses. Ein solches Tool könnte die Prüfung automatisieren und langfristig zur Digitalisierung und Interoperabilität im gesamten Rechtsetzungsverfahren beitragen.
+[Mehr...](../../../wiki/Digitalisierung-der-Datenschutz‐Folgenabschätzung)
+
+
+Version 2:
 | 🟩01️: Digitalisierung der Datenschutz-Folgenabschätzung |
 |:--- |
 | Das Datenschutzgesetz erfordert eine Datenschutz-Folgenabschätzung (DSFA) bei hohem Risiko für die Rechte der Betroffenen, aber es fehlt bislang an einem digitalen Tool zur effizienten Unterstützung dieses Prozesses. Ein solches Tool könnte die Prüfung automatisieren und langfristig zur Digitalisierung und Interoperabilität im gesamten Rechtsetzungsverfahren beitragen. <br>[Mehr...](../../../wiki/Digitalisierung-der-Datenschutz‐Folgenabschätzung) |
