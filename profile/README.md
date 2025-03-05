@@ -7,12 +7,14 @@ Teilnahme: Kostenlos**
 
 ## Anmeldung
 
-Bitte meldet Euch jetzt mittels [Anmeldeformular](https://ejustice.ch/open-legal-lab/#OLL2025) an.
-<!--
+<!--Bitte meldet Euch jetzt mittels [Anmeldeformular](https://ejustice.ch/open-legal-lab/#OLL2025) an.
 >[!IMPORTANT]
 >Begrenzte Teilnehmerzahl!
 >Die Anmeldungen werden nach Eingangsdatum berücksichtigt. Sollte Eure Anmeldung auf der Warteliste landen, werdet Ihr darüber informiert.
 -->
+Die Anmeldefrist für das Open Legal Lab 2025 ist abgelaufen.
+Für Fragen oder weitere Informationen wendest du dich bitte an info@ejustice.ch.
+
 Eure Challenges könnt Ihr per [E-Mail](mailto://info@ejustice.ch?subject=OLL2025%20Challenge:) einreichen. Ein kurzer Text genügt. Ihr werdet umgehend kontaktiert.
 
 Wir freuen uns auf Euch!
