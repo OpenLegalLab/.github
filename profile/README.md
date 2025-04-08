@@ -1,23 +1,25 @@
 ![eJustice ch_open_legal_lab_Logo_Web-300x72](https://github.com/user-attachments/assets/cb1db30b-aee4-44ad-b730-4a8d66dacf79)
 
 ## Präge die Zukunft des Schweizer Rechtssystems aktiv mit!
-**Datum: 6. & 7. April 2025 \
+## Save the date
+**Datum: 26. & 27. April 2026 \
 Ort: Swiss Olympic House, Magglingen \
 Teilnahme: Kostenlos**
 
 ## Anmeldung
+Das Anmeldeformular wird Anfang 2026 freigeschaltet.
 
 <!--Bitte meldet Euch jetzt mittels [Anmeldeformular](https://ejustice.ch/open-legal-lab/#OLL2025) an.
 >[!IMPORTANT]
 >Begrenzte Teilnehmerzahl!
 >Die Anmeldungen werden nach Eingangsdatum berücksichtigt. Sollte Eure Anmeldung auf der Warteliste landen, werdet Ihr darüber informiert.
--->
+
 Die Anmeldefrist für das Open Legal Lab 2025 ist abgelaufen. \
 Für Fragen oder weitere Informationen wendet Euch bitte an info@ejustice.ch.
 
 Eure Challenges könnt Ihr per [E-Mail](mailto://info@ejustice.ch?subject=OLL2025%20Challenge:) einreichen. Ein kurzer Text genügt. Ihr werdet umgehend kontaktiert. \
 **Einreichungsfrist für die Challenges: 31. März 2025**
-
+-->
 Wir freuen uns auf Euch!
 
 # Challenges 2025
