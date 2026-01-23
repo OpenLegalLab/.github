@@ -2,7 +2,7 @@
 
 ## Präge die Zukunft des Schweizer Rechtssystems aktiv mit!
 ## Save the date
-**Datum: 26. & 27. April 2026 \
+**Datum: 25. - 27. April 2026 \
 Ort: Swiss Olympic House, Magglingen \
 Teilnahme: Kostenlos**
 
