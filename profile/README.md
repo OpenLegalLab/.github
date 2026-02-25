@@ -23,7 +23,7 @@ Eure Challenges könnt Ihr per [E-Mail](mailto://info@ejustice.ch?subject=OLL202
 Wir freuen uns auf Euch!
 
 # Challenges 2026
-➡️[Zu den Challenges](../../../challenges2026/discussions)
+➡️[Zu den Challenges](https://github.com/OpenLegalLab/challenges2026/discussions)
 
 <!--➡️[Zu den Challenges / Präsentationsvorlage herunterladen / Schlusspräsentation hochladen](../../../discussions)-->
 <!--
